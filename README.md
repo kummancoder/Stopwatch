@@ -1,6 +1,6 @@
 # Stopwatch - JavaScript Project
 
-This **Stopwatch** project is built using **HTML**, **CSS**, and **JavaScript**. It's designed to improve your JavaScript skills, particularly in handling events, timers, and DOM manipulation. The app features a basic stopwatch with start, stop functionalities.
+This **Stopwatch** project is built using **HTML**, **CSS**, and **JavaScript**. It's designed to improve my JavaScript skills, particularly in handling events, timers, and DOM manipulation. The app features a basic stopwatch with start, stop functionalities.
 
 ## Features
 
